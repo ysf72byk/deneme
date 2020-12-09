@@ -21,5 +21,5 @@ def x():
 
 while 1:
 	x()
-	time.sleep(1)
+	time.sleep(0.001)
 	
